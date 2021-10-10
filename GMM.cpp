@@ -48,6 +48,7 @@ int main(){
 	delete[] data;
 	delete[] p;
 	delete gmm;
+	getchar();
 
 	return 0;
 }
