@@ -46,6 +46,8 @@ int main(){
 		delete[] data[i];
 	}
 	delete[] data;
+	delete[] p;
+	delete gmm;
 
 	return 0;
 }
