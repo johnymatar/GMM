@@ -1,5 +1,5 @@
 # GMM
- A Gaussian Mixture Model library featuring BIC and AIC
+ A Gaussian Mixture Model library featuring BIC and AIC. The majority of the methods in this library are ported to C++ from the GaussianMixture() implementation in the Python's scikitlearn (https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html). The currently suppoted covariance in this implementation is "full" only.
 
- For using this library, simply download the three header files and GaussianMixture.h in your project.
+ For using this library, simply download and place the three header files in your C++ source files' location, then include GaussianMixture.h in your project.
  A sample usage in illustrated in GMM.cpp
