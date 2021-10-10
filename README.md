@@ -4,5 +4,5 @@
  For using this GaussianMixture library, simply download and place the three header files in your C++ source files' location, then include GaussianMixture.h in your project.
  A sample usage in illustrated in GMM.cpp
 
-If you wish to use or evaluate this project, please include an appropriate acknowledgement for "aditya1601" and the authors of the python's GaussianMixture() function. Moreover, please cite:
+If you wish to use or evaluate this project, please include an appropriate acknowledgement or citation for "aditya1601" and the authors of the python's GaussianMixture() function. Moreover, please cite:
 Matar J., El Khoury H., Charr JC., Guyeux C., Chretien S., "Optimized spectral clustering methods for potentially divergent biological sequences", unpublished, 2021.
